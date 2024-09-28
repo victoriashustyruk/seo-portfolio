@@ -174,8 +174,10 @@
 }
 
 .u-section-2 .u-text-3 {
-  line-height: 2;
-  margin: 20px 0 0;
+  font-weight: 700;
+  font-size: 1.125rem;
+  letter-spacing: 5px;
+  margin: 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -272,10 +274,7 @@
   }
 
   .u-section-2 .u-container-layout-2 {
-    padding-bottom: 30px;
-    padding-left: 0;
-    padding-right: 0;
-  }
+а
 
   .u-section-2 .u-image-1 {
     height: 200px;
