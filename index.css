@@ -174,10 +174,8 @@
 }
 
 .u-section-2 .u-text-3 {
-  font-weight: 700;
-  font-size: 1.125rem;
-  letter-spacing: 5px;
-  margin: 0;
+  line-height: 2;
+  margin: 20px 0 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -190,7 +188,7 @@
 
 .u-section-2 .u-image-1 {
   height: auto;
-  background-image: url("photo-with-laptop.JPG");
+  background-image: url("/images/IMG_0280.JPG");
   background-position: 50% 50%;
   margin: 54px 0 0;
 }
@@ -274,7 +272,10 @@
   }
 
   .u-section-2 .u-container-layout-2 {
-а
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+  }
 
   .u-section-2 .u-image-1 {
     height: 200px;
@@ -861,6 +862,14 @@
   .u-section-3 .u-group-6 {
     width: 235px;
   }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 393px;
+}
+
 .u-section-4 .u-text-1 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -1056,128 +1065,128 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 434px;
+    min-height: 436px;
   }
 
   .u-section-4 .u-image-1 {
     width: 65px;
     height: 65px;
-    margin-top: 29px;
-    margin-left: 34px;
+    margin-top: 25px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-2 {
-    width: 62px;
-    height: 62px;
-    margin-top: -62px;
-    margin-left: 108px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
+    margin-left: 87px;
   }
 
   .u-section-4 .u-image-3 {
-    width: 64px;
-    height: 64px;
-    margin-top: -62px;
-    margin-right: 10px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
+    margin-right: 0;
     margin-left: auto;
   }
 
   .u-section-4 .u-image-4 {
-    width: 64px;
-    height: 64px;
-    margin-top: -64px;
-    margin-right: 86px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
+    margin-right: 88px;
     margin-left: auto;
   }
 
   .u-section-4 .u-image-5 {
-    width: 82px;
-    height: 84px;
-    margin-top: 10px;
+    width: 65px;
+    height: 65px;
+    margin-top: 15px;
     margin-right: auto;
-    margin-left: 26px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-6 {
-    width: 66px;
-    height: 66px;
-    margin-top: -75px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
     margin-right: auto;
-    margin-left: 120px;
+    margin-left: 87px;
   }
 
   .u-section-4 .u-image-7 {
-    width: 67px;
-    height: 67px;
-    margin-top: 22px;
+    width: 65px;
+    height: 65px;
+    margin-top: 9px;
     margin-right: auto;
-    margin-left: 33px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-8 {
-    width: 75px;
-    height: 75px;
-    margin-top: -155px;
-    margin-right: 79px;
+    width: 65px;
+    height: 65px;
+    margin-top: -139px;
+    margin-right: 88px;
   }
 
   .u-section-4 .u-image-9 {
     width: 65px;
     height: 65px;
-    margin-top: -70px;
+    margin-top: -65px;
     margin-right: 0;
     margin-left: auto;
   }
 
   .u-section-4 .u-image-10 {
-    width: 62px;
-    height: 62px;
-    margin-top: 21px;
-    margin-left: 120px;
+    width: 65px;
+    height: 65px;
+    margin-top: 9px;
+    margin-left: 87px;
   }
 
   .u-section-4 .u-image-11 {
-    width: 67px;
-    height: 67px;
-    margin-top: -62px;
-    margin-right: 83px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
+    margin-right: 88px;
   }
 
   .u-section-4 .u-image-12 {
-    width: 64px;
-    height: 64px;
+    width: 65px;
+    height: 65px;
     margin-top: -65px;
     margin-right: 0;
     margin-left: auto;
   }
 
   .u-section-4 .u-image-13 {
-    width: 74px;
-    height: 74px;
-    margin-top: 12px;
+    width: 65px;
+    height: 65px;
+    margin-top: 10px;
     margin-right: auto;
-    margin-left: 30px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-14 {
     width: 65px;
     height: 65px;
-    margin-top: -70px;
+    margin-top: -65px;
     margin-right: 88px;
   }
 
   .u-section-4 .u-image-15 {
-    width: 86px;
-    height: 57px;
-    margin-top: -57px;
-    margin-right: -10px;
+    width: 65px;
+    height: 65px;
+    margin-top: -65px;
+    margin-right: 0;
   }
 
   .u-section-4 .u-image-16 {
-    width: 56px;
-    height: 60px;
-    margin-top: -58px;
-    margin-bottom: 21px;
-    margin-left: 114px;
+    width: 60px;
+    height: 65px;
+    margin-top: -65px;
+    margin-bottom: 57px;
+    margin-left: 90px;
   }
 } .u-section-5 {
   background-image: none;
